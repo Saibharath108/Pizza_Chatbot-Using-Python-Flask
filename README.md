@@ -1,4 +1,4 @@
-# Pizza_Chatbot-Yellow-Messenger-2020
+# Pizza_Chatbot Using Python Flask
 
 Download packages
 1.pip3 install flask
